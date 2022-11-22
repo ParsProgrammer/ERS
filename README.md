@@ -1,2 +1,2 @@
 # ERS
-Explainable Recommendation system developed with Tensorflow
+Explainable Recommendation System developed with Tensorflow
