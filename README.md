@@ -1,4 +1,6 @@
-# ERS
+# Explainable Recommendation System developed with Tensorflow
+
+
 Explainable Recommendation System developed with Tensorflow
 
 The code is an attempt to implement the article "Why I like it: multi-task learning for recommendation and explanation"
